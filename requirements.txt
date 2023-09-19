@@ -1,0 +1,21 @@
+The package requirements for this Python program are as follows:
+
+- os
+- cv2 (OpenCV)
+- numpy (np)
+- requests
+- bs4 (BeautifulSoup)
+- tensorflow.keras.applications.VGG16
+- tensorflow.keras.layers.Dense
+- tensorflow.keras.layers.GlobalAveragePooling2D
+- tensorflow.keras.layers.Dropout
+- tensorflow.keras.models.Model
+- tensorflow.keras.models.load_model
+- tensorflow.keras.optimizers.Adam
+- tensorflow.keras.preprocessing.image.ImageDataGenerator
+- sklearn.metrics.accuracy_score
+- sklearn.metrics.precision_score
+- sklearn.metrics.recall_score
+- sklearn.metrics.f1_score
+- flask.Flask
+- flask.render_template
